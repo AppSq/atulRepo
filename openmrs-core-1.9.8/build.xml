@@ -6,6 +6,8 @@
 <!-- ** maven. Using "mvn" instead of "ant" is recommended    ** -->
 <!-- **                                                       ** -->
 <!-- *********************************************************** -->
+
+<!-- Test Git -->
 <project name="OpenMRS-trunk" default="dist" xmlns:artifact="urn:maven-artifact-ant">
 
 	<property environment="env"/>
